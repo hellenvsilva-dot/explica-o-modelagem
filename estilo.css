@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #D9F3F5;
+    background-image: url("tartarugas.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #164E63;
+}
+
+h1, h2 {
+    color: #087E8B;
+}
+
+input, select {
+    padding: 10px;
+    border: 1px solid #7DD3D8;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #0E7490;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #155E75;
+}
+
